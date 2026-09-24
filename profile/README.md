@@ -53,7 +53,7 @@ Fast.Element.Plus targets administration interfaces and business applications. I
 
 A frontend-backend administration system built with Fast.NET, ASP.NET Core, Vue 3, TypeScript, Vite, and Element Plus.
 
-It includes tenant, organization, department, employee, role, menu, and API permission management, together with system settings, dictionaries, logs, monitoring, job scheduling, and file management. Refer to the repository for the current feature set, supported clients, and deployment requirements.
+It includes tenant, organization, department, employee, role, menu, and API permission management, together with system settings, dictionaries, logs, monitoriassets/Fast.pngng, job scheduling, and file management. Refer to the repository for the current feature set, supported clients, and deployment requirements.
 
 ## Documentation
 
