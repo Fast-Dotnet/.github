@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Fast.png" alt="Fast Community" width="128" />
+  <img src="https://gitee.com/FastDotnet/Fast.Docs/raw/master/Fast.png" alt="Fast Community" width="128" />
 </p>
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md)
