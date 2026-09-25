@@ -2,7 +2,7 @@
   <img src="assets/Fast.png" alt="Fast Community" width="128" />
 </p>
 
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md)
+[简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md) · [English](./README.md)
 
 # Fast Community
 
